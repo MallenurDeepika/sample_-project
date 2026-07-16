@@ -1,2 +1,2 @@
-# sample_-project
+# sample_project
 My first project in Github
